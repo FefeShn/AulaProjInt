@@ -1,0 +1,2 @@
+https://github.com/StartBootstrap/startbootstrap-resume.git
+link do repositorio github do template original, já que talvez não dê para acessar através da pasta presente no repositorio
